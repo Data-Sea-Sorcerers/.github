@@ -1,4 +1,9 @@
-## Hi there 👋
+Hey there,
+
+If you can only see the `.github` repository, it's because you aren't a member yet.
+
+I'll put instructions on how to connect to our PostgreSQL instance shortly.
+
 
 <!--
 
